@@ -1,0 +1,20 @@
+{
+  "name": "webpack-ts",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/IrakliAmbroladze/webpack-ts#readme",
+  "bugs": {
+    "url": "https://github.com/IrakliAmbroladze/webpack-ts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrakliAmbroladze/webpack-ts.git"
+  },
+  "license": "ISC",
+  "author": "Irakli Ambroladze",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
